@@ -1,1 +1,1 @@
-# New-Public-Repository-L5G
+Completing the first exercise in learning GitHub course.
